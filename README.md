@@ -1,12 +1,5 @@
-# Perfil-Raphael-ofc
-
 <div>
-    <a target='_blank' href="https://twitch.tv/danielhe4rt">
-        <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-    </a>
-    <a target='_blank' href="https://kick.com/danielhe4rt">
-        <img src="https://img.shields.io/badge/Kick-3ab010?style=for-the-badge&logo=Kick&logoColor=white">
-    </a>
+
     <a target='_blank' href="https://twitter.com/danielhe4rt">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
@@ -15,13 +8,6 @@
     </a>
     <a target='_blank' href="https://linkedin.com/in/danielheart">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a target='_blank' href="https://dev.to/danielhe4rt">
-        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-    </a>
-    <a target='_blank' href="https://youtube.com/danielhe4rt">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-    </a>
 </div>
 
 ## Hello there, stranger
@@ -38,18 +24,12 @@ I've also streaming [LiveCoding sessions at Twitch.tv](https://twitch.tv/danielh
 
 ## Detailed information
 
-* **Name**: Daniel Reis
-* **Age**: 25
-* **Living in**: São Paulo - SP, Brazil
-* **Stack**: PHP - Laravel - Bootstrap - SQL - CQL - AWS - Azure
-* **Learning**: Rust and Databases
-* **University**: Nope. Only have one I.T associate degree.
-* **Prizes:** Microsoft MVP and Twitch Partner
+* **Name**: Raphael Teixeira
+* **Age**: 24
+* **Living in**: Rio de janeiro - RJ, Brazil
+* **Stack**:  PYTHON - SQL
+* **Learning**: Databases
+* **University**: 
 
 ## Curiosities about me
 
-* I took music classes for 10 years, playing classical guitar, violin, violoncelo, bass and singing in a choir that was the reference in the state of São Paulo at that time. My final presentation in this way was in the ["Sala São Paulo"](https://en.wikipedia.org/wiki/Sala_S%C3%A3o_Paulo), which is the **biggest and greatest** theater in Brazil;
-* I started with coding in 2011 using **Pawn Lang**, switching lines and doing the "try/error" approach on a **GTA San Andreas** gamemode only to see if something changes in game;
-* I had a "sensei" who taught me a lot about programming and he made a huge progress with this knowlegment. Today I just did the same he did for me in the past to any people that asks me for help;
-* I already had 2 private MapleStory servers (Java), 3 GTA SA:MP  private servers (Pawn) and 1 Minecraft Server (Java);
-* I really like to help people and learn random things.
